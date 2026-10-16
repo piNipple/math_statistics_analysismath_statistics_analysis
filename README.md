@@ -1,0 +1,2 @@
+# math_statistics_analysismath_statistics_analysis
+Учебный проект по математической статистике
